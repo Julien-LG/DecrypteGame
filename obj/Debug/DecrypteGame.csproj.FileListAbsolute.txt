@@ -1,0 +1,10 @@
+D:\Projets\Logiciels\C#\DecrypteGame\bin\Debug\DecrypteGame.exe.config
+D:\Projets\Logiciels\C#\DecrypteGame\bin\Debug\DecrypteGame.exe
+D:\Projets\Logiciels\C#\DecrypteGame\bin\Debug\DecrypteGame.pdb
+D:\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.csprojAssemblyReference.cache
+D:\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.Form1.resources
+D:\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.Properties.Resources.resources
+D:\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.csproj.GenerateResource.cache
+D:\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.csproj.CoreCompileInputs.cache
+D:\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.exe
+D:\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.pdb
