@@ -8,3 +8,13 @@ D:\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.csproj.GenerateResou
 D:\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.csproj.CoreCompileInputs.cache
 D:\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.exe
 D:\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.pdb
+D:\Julien\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.csproj.AssemblyReference.cache
+D:\Julien\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.Form1.resources
+D:\Julien\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.Properties.Resources.resources
+D:\Julien\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.csproj.GenerateResource.cache
+D:\Julien\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.csproj.CoreCompileInputs.cache
+D:\Julien\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.exe
+D:\Julien\Projets\Logiciels\C#\DecrypteGame\obj\Debug\DecrypteGame.pdb
+D:\Julien\Projets\Logiciels\C#\DecrypteGame\bin\Debug\DecrypteGame.exe.config
+D:\Julien\Projets\Logiciels\C#\DecrypteGame\bin\Debug\DecrypteGame.exe
+D:\Julien\Projets\Logiciels\C#\DecrypteGame\bin\Debug\DecrypteGame.pdb

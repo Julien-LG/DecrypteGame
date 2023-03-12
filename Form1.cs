@@ -24,7 +24,11 @@ namespace DecrypteGame
         {
             //this.SetStyle(ControlStyles.SupportsTransparentBackColor, true);
             InitializeComponent();
-            tb_text.BackColor
+            //tb_text.BackColor
+            //potentiellement important, je n'ai jamais fini cet endroit (note de moi du 12/03/2023)
+
+
+
             //tb_text.
             //this.SetStyle(ControlStyles.SupportsTransparentBackColor, true);
             //tb_text.BackColor = System.Drawing.Color.Transparent;
